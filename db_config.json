@@ -5,8 +5,8 @@
             "desc": "Fake Tuga Data Leak",
             "path": "fake_tuga.db",
             "table_name": "DataLeak",
-            "search_fields": ["Name", "Email", "Phone"],
-            "search_results_fields": ["Name", "Email", "Phone"]
+            "search_fields": ["Name", "Email", "Phone", "Birthdate", "Address", "Gender"],
+            "search_results_fields": ["Name", "Email", "Phone", "Birthdate", "Address", "Gender"]
         },
         {
             "source": "Random ChatGPT Data",
