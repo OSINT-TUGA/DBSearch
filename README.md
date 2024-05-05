@@ -27,8 +27,14 @@ Have you ever faced the challenge of managing a super mega hyper gigantic Data B
 - **With git:**
     `git clone --depth 1 https://github.com/OSINT-TUGA/DBSearch.git`
 
+- **Install requirements:**
+
+    'pip3 install -r requirements'
+
 ## Usage
+
 - **Execute the script:**
+
     `python3 DBSearch.py`
 
 ## Changelog
